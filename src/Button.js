@@ -5,8 +5,8 @@ const BUTTON_TYPES = {
   secondary: 'btn-secondary'
 };
 
-const Button = ({ label, children, type = 'primary', onClick }) => (
-  <a className={BUTTON_TYPES[type]} onClick={onClick}>{children || label}</a>
+const Button = ({ label, type = 'primary', onClick }) => (
+  <a className={BUTTON_TYPES[type]} onClick={onClick}>{label}</a>
 );
 
 export default Button;
