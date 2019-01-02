@@ -1,10 +1,10 @@
 {
-  "name": "@tap-giants/admin-ui",
+  "name": "@tapgiants/admin-ui",
   "version": "1.0.0",
   "description": "Minimalistic React UI library",
   "main": "build/index.js",
   "repository": "https://github.com/tap-giants/admin-ui.git",
-  "author": "Vestimir Markov",
+  "author": "Tap Giants",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
