@@ -1,6 +1,6 @@
 {
   "name": "@tapgiants/admin-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimalistic React UI library",
   "main": "build/index.js",
   "repository": "https://github.com/tap-giants/admin-ui.git",
@@ -16,10 +16,10 @@
     "@babel/preset-env": "^7.2.3",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.4",
-    "webpack": "^4.28.2",
-    "webpack-cli": "^3.1.2",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2"
   },
   "peerDependencies": {
     "react": "^16.7.0",
