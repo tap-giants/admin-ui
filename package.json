@@ -1,6 +1,6 @@
 {
   "name": "@tapgiants/admin-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minimalistic React UI library",
   "main": "build/index.js",
   "repository": "https://github.com/tap-giants/admin-ui.git",
@@ -26,6 +26,6 @@
     "react-dom": "^16.7.0"
   },
   "dependencies": {
-    "moment": "^2.23.0"
+    "dayjs": "^1.7.8"
   }
 }

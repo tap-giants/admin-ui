@@ -1,11 +1,8 @@
 import React from 'react';
-import moment from 'moment';
+import dayjs from 'dayjs';
 
-const FormatDate = ({ format, children }) => {
-  return (
-    <span className="format-date">{moment(children).format(format)}</span>
-  );
-}
+const FormatDate = ({ format, children }) =>
+  <span className="format-date">{dayjs(children).format(format)}</span>;
 
 FormatDate.defaultProps = {
   format: 'll',
