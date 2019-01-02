@@ -1,6 +1,6 @@
 {
   "name": "@tapgiants/admin-ui",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Minimalistic React UI library",
   "main": "build/index.js",
   "repository": "https://github.com/tap-giants/admin-ui.git",
