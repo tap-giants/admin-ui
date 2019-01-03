@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "Minimalistic React UI library",
   "main": "build/index.js",
-  "repository": "https://github.com/tap-giants/admin-ui.git",
+  "repository": "https://github.com/tapgiants/admin-ui.git",
   "author": "Tap Giants",
   "license": "MIT",
   "scripts": {
